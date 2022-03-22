@@ -301,7 +301,7 @@ class MainMenuState extends MusicBeatState
 				spr.centerOffsets();
 			}
 		},
-	   });
+	   },
        },
    },
 },
